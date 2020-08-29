@@ -1,0 +1,13 @@
+C:\Users\111\source\repos\TaskPay\TaskPay\bin\Debug\netcoreapp3.1\TaskPay.exe
+C:\Users\111\source\repos\TaskPay\TaskPay\bin\Debug\netcoreapp3.1\TaskPay.deps.json
+C:\Users\111\source\repos\TaskPay\TaskPay\bin\Debug\netcoreapp3.1\TaskPay.runtimeconfig.json
+C:\Users\111\source\repos\TaskPay\TaskPay\bin\Debug\netcoreapp3.1\TaskPay.runtimeconfig.dev.json
+C:\Users\111\source\repos\TaskPay\TaskPay\bin\Debug\netcoreapp3.1\TaskPay.dll
+C:\Users\111\source\repos\TaskPay\TaskPay\bin\Debug\netcoreapp3.1\TaskPay.pdb
+C:\Users\111\source\repos\TaskPay\TaskPay\obj\Debug\netcoreapp3.1\TaskPay.csprojAssemblyReference.cache
+C:\Users\111\source\repos\TaskPay\TaskPay\obj\Debug\netcoreapp3.1\TaskPay.AssemblyInfoInputs.cache
+C:\Users\111\source\repos\TaskPay\TaskPay\obj\Debug\netcoreapp3.1\TaskPay.AssemblyInfo.cs
+C:\Users\111\source\repos\TaskPay\TaskPay\obj\Debug\netcoreapp3.1\TaskPay.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\TaskPay\TaskPay\obj\Debug\netcoreapp3.1\TaskPay.dll
+C:\Users\111\source\repos\TaskPay\TaskPay\obj\Debug\netcoreapp3.1\TaskPay.pdb
+C:\Users\111\source\repos\TaskPay\TaskPay\obj\Debug\netcoreapp3.1\TaskPay.genruntimeconfig.cache
